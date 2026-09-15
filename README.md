@@ -1,4 +1,4 @@
-# Hi, I'm Nikolya 👋
+# Hi there 👋
 
 I'm a Computer Science & Software Engineering student from Tashkent, Uzbekistan.
 
