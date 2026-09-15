@@ -1,52 +1,22 @@
-# Hey, I'm Nikolya 👋
+# Hi, I'm Nikolya 👋
 
-### Computer Science Student · Software Engineer · Builder
+I'm a Computer Science & Software Engineering student from Tashkent, Uzbekistan.
 
-I'm a Computer Science & Software Engineering student focused on building
-modern, scalable, and well-engineered software.
+I enjoy building software, learning how systems work, and turning ideas into real-world projects. Currently, I'm focused on improving my skills in full-stack development, backend engineering, and software architecture.
 
-Currently exploring the intersection of **frontend engineering, backend systems,
-cybersecurity, and machine learning**.
+### What I'm interested in
 
-I enjoy turning ideas into real products — from the first line of code
-to deployment.
-
----
-
-### What I'm working on
-
-- Building full-stack applications with React, Node.js, and PostgreSQL
-- Developing backend systems and REST APIs
-- Exploring cybersecurity and secure software architecture
-- Learning more about Machine Learning and AI Engineering
-- Improving my understanding of system design and scalable applications
-
----
+- Full-stack & Backend Development
+- Cybersecurity
+- Machine Learning
+- Databases & System Design
 
 ### Tech Stack
 
-**Languages**
-
-JavaScript · TypeScript · C++ · Python
-
-**Frontend**
-
-React · Vite · Tailwind CSS
-
-**Backend**
-
-Node.js · Express · REST APIs
-
-**Database & Tools**
-
-PostgreSQL · Supabase · Prisma · Git · GitHub
-
----
+JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · Prisma · Supabase · C++ · Python
 
 ### Currently
 
-```text
-🎓 Computer Science & Software Engineering
-🧠 Learning: Backend Architecture, Cybersecurity, Machine Learning
-🛠️ Building: Full-stack applications & developer tools
+Building projects, learning new technologies, and improving every day.
+
 📍 Tashkent, Uzbekistan
